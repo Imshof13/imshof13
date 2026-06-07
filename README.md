@@ -1,6 +1,6 @@
 # Hello there, I'm Shofwan Imtiyaz 👋
 
-### Software Engineering Student from Indonesia ID
+### Software Engineering Student from Indonesia
 
 I'm a Software Engineering student passionate about building modern web applications and continuously learning new technologies. I enjoy transforming ideas into scalable, user-friendly, and efficient digital solutions.
 
