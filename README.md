@@ -63,6 +63,12 @@ I'm a Software Engineering student passionate about building modern web applicat
 
 ## Connect With Me
 
+<p align="left">
+  <a href="https://linkedin.com/in/shofwan-imtiyaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### Thanks for visiting my profile!
